@@ -1,3 +1,44 @@
+# 📝 Todo List App
+
+A clean, responsive, and intuitive **Todo List Web Application** designed to help manage everyday tasks, boost daily productivity, and track progress effortlessly.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **[Click here to view Live App](https://tarunkaushik09.github.io/Todo-list-app/)**
+
+---
+
+## ✨ Key Features
+
+- **Task Creation & Deletion**: Add new to-dos instantly and remove finished or unwanted items with one click.
+- **Task Completion Status**: Mark tasks as done or pending with visual feedback (strikethrough / completion indicators).
+- **Persistent Storage**: Utilizes the browser's `localStorage` API so tasks remain saved even after refreshing or closing the browser.
+- **Clean & Responsive UI**: Seamlessly adapts across mobile devices, tablets, and desktop viewports.
+- **Fast & Lightweight**: Built with pure vanilla frontend tech stack without heavy external dependencies.
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**: Semantic elements and document markup.
+- **CSS3 / Modern Styling**: Clean layout styling and transition effects.
+- **JavaScript (ES6+)**: DOM manipulation, event listeners, and task state management.
+- **Web Storage API**: Browser-level `localStorage` for client-side persistence.
+
+---
+
+## 📁 Project Structure
+
+```text
+Todo-list-app/
+├── index.html       # Main HTML interface
+├── style.css        # App styling and responsive layout
+├── script.js        # Core task logic and LocalStorage handler
+└── README.md        # Project documentation
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
