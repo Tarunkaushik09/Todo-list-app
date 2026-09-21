@@ -6,7 +6,7 @@ A clean, responsive, and intuitive **Todo List Web Application** designed to hel
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to view Live App](https://tarunkaushik09.github.io/Todo-list-app/)**
+🔗 **[Click here to view Live App](https://tarunkaushik00.github.io/Todo-list-app/)**
 
 ---
 
